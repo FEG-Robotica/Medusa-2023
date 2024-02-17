@@ -1,0 +1,9 @@
+strat1 = STRAT1_CMD
+toquinho = TOQUINHO_CMD
+arco = ARCO_CMD
+estrela = ESTRELA_CMD
+distmotor = DISTMOTOR_CMD
+frente = FRENTE_CMD
+tras = TRAS_CMD
+testepwms = TESTEPWMS_CMD
+p = PARAR_CMD

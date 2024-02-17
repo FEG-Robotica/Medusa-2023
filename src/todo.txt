@@ -1,0 +1,4 @@
+Arrumar função de moverMotor
+Arrumar usos de função moverMotor
+Testar timer
+Implementar ble no meio do codigo, com onDisconnect
